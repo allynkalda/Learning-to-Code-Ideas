@@ -8,6 +8,8 @@
 </br>
 <a href="https://www.w3schools.com/js/default.asp">W3School Javascript</a>
 </br>
+<a href="https://medium.com/@kevinsimper/47-simple-javascript-apps-you-can-make-in-a-day-98f5207ca2e1">47 simple javascript apps you can make in a day</a> by Kevin Simper
+</br>
 <a href="https://medium.freecodecamp.org/an-introduction-to-the-javascript-dom-512463dd62ec">An introduction to the JavaScript DOM</a> by Gabriel Tanner
 </br>
 <a href="https://codeburst.io/learn-let-var-and-const-in-easiest-way-with-guarantee-e6ecf551018a">Difference between let, const and var in easiest way with Guarantee…</a> by Arslan Shakoor
@@ -17,5 +19,11 @@
 <a href="https://medium.freecodecamp.org/recursion-is-not-hard-858a48830d83">Recursion is not hard: a step-by-step walkthrough of this useful programming technique</a> by Kevin Turney
 </br>
 <a href="https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2">How to think like a programmer — lessons in problem solving</a> by Richard Reis
+</br>
+<a href="https://medium.freecodecamp.org/a-step-towards-computing-as-a-science-algorithms-data-structures-4c0e2d6ae79a">A Step Towards Computing as a Science</a> by Yung L. Leung
+</br>
+<a href="https://medium.freecodecamp.org/the-complexity-of-simple-algorithms-and-data-structures-in-javascript-11e25b29de1e">The complexity of simple algorithms and data structures in JS</a>  by Yung L. Leung
+</br>
+<a href="https://adriann.github.io/programming_problems.html">Simple Programming Problems</a>
 
 
