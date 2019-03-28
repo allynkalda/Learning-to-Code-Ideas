@@ -25,5 +25,12 @@
 <a href="https://medium.freecodecamp.org/the-complexity-of-simple-algorithms-and-data-structures-in-javascript-11e25b29de1e">The complexity of simple algorithms and data structures in JS</a>  by Yung L. Leung
 </br>
 <a href="https://adriann.github.io/programming_problems.html">Simple Programming Problems</a>
+</br>
+<h2>Productivity</h2>
+</br>
+<a href="https://www.nytimes.com/2019/01/13/smarter-living/how-to-actually-truly-focus-on-what-youre-doing.html">How to Actually, Truly Focus on What You’re Doing</a> by NYTimes
+</br>
+<a href="https://asoftmurmur.com/">Ambient sounds to wash away distraction</a> by aSoftMurmur.com
+
 
 
