@@ -9,7 +9,7 @@
 </br>
 <a href="https://medium.freecodecamp.org/an-introduction-to-the-javascript-dom-512463dd62ec">An introduction to the JavaScript DOM</a> by Gabriel Tanner
 </br>
-<a href="https://codeburst.io/learn-let-var-and-const-in-easiest-way-with-guarantee-e6ecf551018a">Difference between let, const and var in easiest way with Guarantee…</a>
+<a href="https://codeburst.io/learn-let-var-and-const-in-easiest-way-with-guarantee-e6ecf551018a">Difference between let, const and var in easiest way with Guarantee…</a> by Arslan Shakoor
 </br>
 <h2>The Art of Programming</h2>
 </br>
