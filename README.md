@@ -14,6 +14,8 @@
 </br>
 <a href="https://codeburst.io/learn-let-var-and-const-in-easiest-way-with-guarantee-e6ecf551018a">Difference between let, const and var in easiest way with Guarantee…</a> by Arslan Shakoor
 </br>
+</a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions">Regular Expressions</a> by Developer Mozilla
+</br>
 <h2>The Art of Programming</h2>
 </br>
 <a href="https://medium.freecodecamp.org/recursion-is-not-hard-858a48830d83">Recursion is not hard: a step-by-step walkthrough of this useful programming technique</a> by Kevin Turney
