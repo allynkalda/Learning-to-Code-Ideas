@@ -8,6 +8,8 @@
 </br>
 <a href="https://www.w3schools.com/js/default.asp">W3School Javascript</a>
 </br>
+<a href="https://medium.freecodecamp.org/what-is-an-api-in-english-please-b880a3214a82">What is an API? In English, please.</a> by Petr Gazarov
+</br>
 <a href="https://medium.com/@kevinsimper/47-simple-javascript-apps-you-can-make-in-a-day-98f5207ca2e1">47 simple javascript apps you can make in a day</a> by Kevin Simper
 </br>
 <a href="https://medium.freecodecamp.org/an-introduction-to-the-javascript-dom-512463dd62ec">An introduction to the JavaScript DOM</a> by Gabriel Tanner
