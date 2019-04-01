@@ -6,6 +6,8 @@
 <h2>CSS</h2>
 <a href="https://meyerweb.com/eric/tools/css/reset/">CSS Tools: Reset CSS</a>
 </br>
+<a href="https://css-tricks.com/pseudo-class-selectors/">Meet the Pseudo Class Selectors</a>
+</br>
 <h2>Javascript</h2>
 <a href="https://skillcrush.com/2018/06/18/projects-you-can-do-with-javascript/">Projects You Can Do with Javascript</a>
 </br>
