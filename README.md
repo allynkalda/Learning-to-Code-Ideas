@@ -8,6 +8,10 @@
 </br>
 <a href="https://css-tricks.com/pseudo-class-selectors/">Meet the Pseudo Class Selectors</a>
 </br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity">Specificity</a>
+</br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing">Mastering margin collapsing</a>
+</br>
 <h2>Javascript</h2>
 <a href="https://skillcrush.com/2018/06/18/projects-you-can-do-with-javascript/">Projects You Can Do with Javascript</a>
 </br>
