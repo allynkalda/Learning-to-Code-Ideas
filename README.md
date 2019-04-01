@@ -45,6 +45,8 @@
 </br>
 <a href="https://adriann.github.io/programming_problems.html">Simple Programming Problems</a>
 </br>
+<a href="https://medium.freecodecamp.org/object-oriented-programming-concepts-21bb035f7260">How to explain object-oriented programming concepts to a 6-year-old</a> by Alexander Petkov
+</br>
 <h2>Productivity</h2>
 <a href="https://www.nytimes.com/2019/01/13/smarter-living/how-to-actually-truly-focus-on-what-youre-doing.html">How to Actually, Truly Focus on What You’re Doing</a> by NYTimes
 </br>
