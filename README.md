@@ -2,6 +2,11 @@
 <a href="https://medium.freecodecamp.org/reflections-on-my-first-1-000-hours-learning-to-code-17cd32e72f11">Reflections on my first 1,000 hours learning to code</a> by Peter Higgins
 </br>
 <a href="https://medium.freecodecamp.org/the-10-minute-roadmap-to-becoming-a-junior-full-stack-web-developer-1131d4ffc48">The 10-minute roadmap to becoming a Junior full stack web developer</a> by Chris Blakely
+</br>
+<h2>CSS</h2>
+</br>
+<a href="https://meyerweb.com/eric/tools/css/reset/">CSS Tools: Reset CSS</a>
+</br>
 <h2>Javascript</h2>
 </br>
 <a href="https://skillcrush.com/2018/06/18/projects-you-can-do-with-javascript/">Projects You Can Do with Javascript</a>
