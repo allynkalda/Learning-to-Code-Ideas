@@ -12,6 +12,9 @@
 </br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing">Mastering margin collapsing</a>
 </br>
+<a href="https://medium.freecodecamp.org/how-to-use-the-position-property-in-css-to-align-elements-d8f49c403a26">How to use the position property in CSS to align elements</a>
+</br>
+<a href="https://www.w3schools.com/css/css_float.asp">CSS Layout - float and clear</a>
 <h2>Javascript</h2>
 <a href="https://skillcrush.com/2018/06/18/projects-you-can-do-with-javascript/">Projects You Can Do with Javascript</a>
 </br>
