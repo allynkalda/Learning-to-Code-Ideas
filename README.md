@@ -4,11 +4,9 @@
 <a href="https://medium.freecodecamp.org/the-10-minute-roadmap-to-becoming-a-junior-full-stack-web-developer-1131d4ffc48">The 10-minute roadmap to becoming a Junior full stack web developer</a> by Chris Blakely
 </br>
 <h2>CSS</h2>
-</br>
 <a href="https://meyerweb.com/eric/tools/css/reset/">CSS Tools: Reset CSS</a>
 </br>
 <h2>Javascript</h2>
-</br>
 <a href="https://skillcrush.com/2018/06/18/projects-you-can-do-with-javascript/">Projects You Can Do with Javascript</a>
 </br>
 <a href="https://www.w3schools.com/js/default.asp">W3School Javascript</a>
@@ -28,7 +26,6 @@
 <a href="https://codeburst.io/an-introduction-to-regular-expressions-regex-in-javascript-1d3559e7ac9a">An Introduction to Regular Expressions (Regex) In JavaScript</a> by Brandon Morelli
 </br>
 <h2>The Art of Programming</h2>
-</br>
 <a href="https://medium.freecodecamp.org/recursion-is-not-hard-858a48830d83">Recursion is not hard: a step-by-step walkthrough of this useful programming technique</a> by Kevin Turney
 </br>
 <a href="https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2">How to think like a programmer — lessons in problem solving</a> by Richard Reis
@@ -40,7 +37,6 @@
 <a href="https://adriann.github.io/programming_problems.html">Simple Programming Problems</a>
 </br>
 <h2>Productivity</h2>
-</br>
 <a href="https://www.nytimes.com/2019/01/13/smarter-living/how-to-actually-truly-focus-on-what-youre-doing.html">How to Actually, Truly Focus on What You’re Doing</a> by NYTimes
 </br>
 <a href="https://asoftmurmur.com/">Ambient sounds to wash away distraction</a> by aSoftMurmur.com
