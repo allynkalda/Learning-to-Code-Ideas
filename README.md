@@ -36,7 +36,7 @@
 </br>
 <a href="http://www.jacklmoore.com/notes/rounding-in-javascript/">Rounding Decimals in JavaScript</a> by Jack Moore
 </br>
-<a href="https://www.exploringbinary.com/why-0-point-1-does-not-exist-in-floating-point/">Why 0.1 Does Not Exist In Floating-Point</a>
+<a href="https://www.exploringbinary.com/why-0-point-1-does-not-exist-in-floating-point/">Why 0.1 Does Not Exist In Floating-Point</a> by Rick Regan
 </br>
 <h2>The Art of Programming</h2>
 <a href="https://medium.freecodecamp.org/recursion-is-not-hard-858a48830d83">Recursion is not hard: a step-by-step walkthrough of this useful programming technique</a> by Kevin Turney
