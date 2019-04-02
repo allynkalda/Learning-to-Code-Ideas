@@ -34,6 +34,7 @@
 </br>
 <a href="https://codeburst.io/an-introduction-to-regular-expressions-regex-in-javascript-1d3559e7ac9a">An Introduction to Regular Expressions (Regex) In JavaScript</a> by Brandon Morelli
 </br>
+<a href="Rounding Decimals in JavaScript">http://www.jacklmoore.com/notes/rounding-in-javascript/</a> by Jack Moore
 <h2>The Art of Programming</h2>
 <a href="https://medium.freecodecamp.org/recursion-is-not-hard-858a48830d83">Recursion is not hard: a step-by-step walkthrough of this useful programming technique</a> by Kevin Turney
 </br>
