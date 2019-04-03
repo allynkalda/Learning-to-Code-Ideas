@@ -40,6 +40,8 @@
 </br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String">MDN Web Docs: Strings</a>
 </br>
+<a href="https://regexone.com/references/javascript">Using Regular Expressions in Javascript</a>
+</br>
 <h2>The Art of Programming</h2>
 <a href="https://medium.freecodecamp.org/recursion-is-not-hard-858a48830d83">Recursion is not hard: a step-by-step walkthrough of this useful programming technique</a> by Kevin Turney
 </br>
