@@ -42,7 +42,7 @@
 </br>
 <a href="https://regexone.com/references/javascript">Using Regular Expressions in Javascript</a>
 </br>
-<a href="https://medium.freecodecamp.org/javascript-closures-simplified-d0d23fa06ba4">A simple guide to help you understand closures in JavaScript</a>
+<a href="https://medium.freecodecamp.org/javascript-closures-simplified-d0d23fa06ba4">A simple guide to help you understand closures in JavaScript</a> by Prashant Ram
 </br>
 <h2>The Art of Programming</h2>
 <a href="https://medium.freecodecamp.org/recursion-is-not-hard-858a48830d83">Recursion is not hard: a step-by-step walkthrough of this useful programming technique</a> by Kevin Turney
