@@ -18,6 +18,7 @@
 <h2>Javascript</h2>
 <a href="https://skillcrush.com/2018/06/18/projects-you-can-do-with-javascript/">Projects You Can Do with Javascript</a>
 </br>
+<a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">A Complete Guide to Flexbox</a> by CSS Tricks
 <a href="https://www.w3schools.com/js/default.asp">W3School Javascript</a>
 </br>
 <a href="https://medium.freecodecamp.org/what-is-an-api-in-english-please-b880a3214a82">What is an API? In English, please.</a> by Petr Gazarov
