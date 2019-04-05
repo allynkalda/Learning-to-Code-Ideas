@@ -46,6 +46,8 @@
 </br>
 <a href="https://medium.freecodecamp.org/javascript-closures-simplified-d0d23fa06ba4">A simple guide to help you understand closures in JavaScript</a> by Prashant Ram
 </br>
+<a href="https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript">2D breakout game using pure JavaScript</a>
+</br>
 <h2>The Art of Programming</h2>
 <a href="https://medium.freecodecamp.org/recursion-is-not-hard-858a48830d83">Recursion is not hard: a step-by-step walkthrough of this useful programming technique</a> by Kevin Turney
 </br>
