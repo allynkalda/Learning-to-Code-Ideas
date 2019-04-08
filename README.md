@@ -48,6 +48,7 @@
 </br>
 <a href="https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript">2D breakout game using pure JavaScript</a>
 </br>
+<a href="https://codeburst.io/es6-tutorial-for-beginners-5f3c4e7960be">ES6 for Beginners</a> by Srebalaji Thirumalai
 <h2>The Art of Programming</h2>
 <a href="https://medium.freecodecamp.org/recursion-is-not-hard-858a48830d83">Recursion is not hard: a step-by-step walkthrough of this useful programming technique</a> by Kevin Turney
 </br>
