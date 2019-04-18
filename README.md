@@ -23,6 +23,8 @@
 <a href="https://css-tricks.com/look-ma-no-media-queries-responsive-layouts-using-css-grid/">Look Ma, No Media Queries! Responsive Layouts Using CSS Grid</a>
 </br>
 <a href="https://thoughtbot.com/blog/transitions-and-transforms">Transitions and Transforms</a> by Thoughtbot
+</br>
+<a href="https://thoughtbot.com/blog/css-animation-for-beginners">CSS Animation for Beginners</a> by Thoughtbot
 <h2>Javascript</h2>
 <a href="https://skillcrush.com/2018/06/18/projects-you-can-do-with-javascript/">Projects You Can Do with Javascript</a>
 </br>
