@@ -73,6 +73,8 @@
 </br>
 <a href="https://medium.freecodecamp.org/object-oriented-programming-concepts-21bb035f7260">How to explain object-oriented programming concepts to a 6-year-old</a> by Alexander Petkov
 </br>
+Video: <a href ="https://www.youtube.com/watch?v=D6xkbGLQesk">Introduction to Big O Notation and Time Complexity (Data Structures & Algorithms #7)</a>
+</br>
 <h2>Productivity</h2>
 <a href="https://www.nytimes.com/2019/01/13/smarter-living/how-to-actually-truly-focus-on-what-youre-doing.html">How to Actually, Truly Focus on What You’re Doing</a> by NYTimes
 </br>
