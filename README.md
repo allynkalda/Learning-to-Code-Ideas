@@ -60,6 +60,9 @@
 </br>
 <a href="https://jshint.com/">JS Hint: A Code Quality Tool</a>
 </br>
+<h2>Tools</h2>
+</br>
+<a href="https://docs.mongodb.com/manual/">MongoDB Manual</a>
 <h2>The Art of Programming</h2>
 <a href="https://medium.freecodecamp.org/recursion-is-not-hard-858a48830d83">Recursion is not hard: a step-by-step walkthrough of this useful programming technique</a> by Kevin Turney
 </br>
