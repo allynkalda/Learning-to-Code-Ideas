@@ -5,6 +5,9 @@
 </br>
 <h2>Tools</h2>
 <a href="https://caniuse.com/">Can I Use: Browser support tables for modern web technologies</a>
+</br>
+<a href="https://docs.mongodb.com/manual/">MongoDB Manual</a>
+</br>
 <h2>CSS</h2>
 <a href="https://meyerweb.com/eric/tools/css/reset/">CSS Tools: Reset CSS</a>
 </br>
@@ -62,9 +65,6 @@
 </br>
 <a href-"https://developers.google.com/web/fundamentals/primers/promises">JavaScript Promises: an Introduction</a> by Google Web Fundamentals
 </br>
-<h2>Tools</h2>
-</br>
-<a href="https://docs.mongodb.com/manual/">MongoDB Manual</a>
 <h2>The Art of Programming</h2>
 <a href="https://medium.freecodecamp.org/recursion-is-not-hard-858a48830d83">Recursion is not hard: a step-by-step walkthrough of this useful programming technique</a> by Kevin Turney
 </br>
