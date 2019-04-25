@@ -60,6 +60,8 @@
 </br>
 <a href="https://jshint.com/">JS Hint: A Code Quality Tool</a>
 </br>
+<a href-"https://developers.google.com/web/fundamentals/primers/promises">JavaScript Promises: an Introduction</a> by Google Web Fundamentals
+</br>
 <h2>Tools</h2>
 </br>
 <a href="https://docs.mongodb.com/manual/">MongoDB Manual</a>
