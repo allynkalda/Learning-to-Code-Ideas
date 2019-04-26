@@ -28,6 +28,9 @@
 <a href="https://thoughtbot.com/blog/transitions-and-transforms">Transitions and Transforms</a> by Thoughtbot
 </br>
 <a href="https://thoughtbot.com/blog/css-animation-for-beginners">CSS Animation for Beginners</a> by Thoughtbot
+</br>
+<a href="https://medium.freecodecamp.org/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11">The CSS Handbook: a handy guide to CSS for developers</a>
+</br>
 <h2>Javascript</h2>
 <a href="https://skillcrush.com/2018/06/18/projects-you-can-do-with-javascript/">Projects You Can Do with Javascript</a>
 </br>
