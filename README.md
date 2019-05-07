@@ -8,6 +8,8 @@
 </br>
 <a href="https://docs.mongodb.com/manual/">MongoDB Manual</a>
 </br>
+<a href="https://cloudinary.com/documentation">Cloudinary Documentation</a>
+</br>
 <h2>CSS</h2>
 <a href="https://meyerweb.com/eric/tools/css/reset/">CSS Tools: Reset CSS</a>
 </br>
