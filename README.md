@@ -78,6 +78,8 @@
 </br>
 <a href="https://css-tricks.com/understanding-javascript-constructors/">Understanding Javascript Constructors</a>
 </br>
+<a href="https://codeburst.io/javascript-essentials-types-data-structures-3ac039f9877b">JavaScript Essentials: Types & Data Structures</a>
+</br>
 <h2>The Art of Programming</h2>
 <a href="https://medium.freecodecamp.org/recursion-is-not-hard-858a48830d83">Recursion is not hard: a step-by-step walkthrough of this useful programming technique</a> by Kevin Turney
 </br>
