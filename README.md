@@ -14,6 +14,8 @@
 </br>
 <a href="https://expressjs.com/">Express Framework for Node.js</a>
 </br>
+<a href="https://channel9.msdn.com/posts/Anders-Hejlsberg-Introducing-TypeScript">Anders Hejlsberg: Introducing TypeScript</a>
+</br>
 <h2>CSS</h2>
 <a href="https://meyerweb.com/eric/tools/css/reset/">CSS Tools: Reset CSS</a>
 </br>
