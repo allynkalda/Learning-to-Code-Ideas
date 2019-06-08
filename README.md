@@ -90,7 +90,10 @@
 </br>
 <a href="https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261">What is Promise?</a>
 </br>
+<a href="https://medium.com/codebuddies/getting-to-know-asynchronous-javascript-callbacks-promises-and-async-await-17e0673281ee">Getting to know asynchronous JavaScript: Callbacks, Promises and Async/Await</a>
+</br>
 ## The Art of Programming
+</br>
 <a href="https://medium.freecodecamp.org/recursion-is-not-hard-858a48830d83">Recursion is not hard: a step-by-step walkthrough of this useful programming technique</a> by Kevin Turney
 </br>
 <a href="https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2">How to think like a programmer — lessons in problem solving</a> by Richard Reis
@@ -106,9 +109,11 @@
 Video: <a href ="https://www.youtube.com/watch?v=D6xkbGLQesk">Introduction to Big O Notation and Time Complexity (Data Structures & Algorithms #7)</a>
 </br>
 ## Others
+</br>
 <a href="https://www.youtube.com/watch?v=sakQbeRjgwg">OAuth Passport</a> by Net Ninja
 </br>
 ## Productivity
+</br>
 <a href="https://www.nytimes.com/2019/01/13/smarter-living/how-to-actually-truly-focus-on-what-youre-doing.html">How to Actually, Truly Focus on What You’re Doing</a> by NYTimes
 </br>
 <a href="https://asoftmurmur.com/">Ambient sounds to wash away distraction</a> by aSoftMurmur.com
