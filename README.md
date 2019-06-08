@@ -82,6 +82,12 @@
 </br>
 <a href="https://codeburst.io/javascript-essentials-types-data-structures-3ac039f9877b">JavaScript Essentials: Types & Data Structures</a>
 </br>
+<h2>Advanced Javascript</h2>
+</br>
+<a href="https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9">What’s the Difference Between Class & Prototypal Inheritance?</a>
+</br>
+<a href="https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36">What is Closure?</a>
+</br>
 <h2>The Art of Programming</h2>
 <a href="https://medium.freecodecamp.org/recursion-is-not-hard-858a48830d83">Recursion is not hard: a step-by-step walkthrough of this useful programming technique</a> by Kevin Turney
 </br>
