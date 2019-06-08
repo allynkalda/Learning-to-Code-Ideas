@@ -1,4 +1,4 @@
-<h2>General Reading for Beginners</h2>
+## General Reading for Beginners
 <a href="https://medium.freecodecamp.org/reflections-on-my-first-1-000-hours-learning-to-code-17cd32e72f11">Reflections on my first 1,000 hours learning to code</a> by Peter Higgins
 </br>
 <a href="https://medium.freecodecamp.org/the-10-minute-roadmap-to-becoming-a-junior-full-stack-web-developer-1131d4ffc48">The 10-minute roadmap to becoming a Junior full stack web developer</a> by Chris Blakely
