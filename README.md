@@ -3,7 +3,7 @@
 </br>
 <a href="https://medium.freecodecamp.org/the-10-minute-roadmap-to-becoming-a-junior-full-stack-web-developer-1131d4ffc48">The 10-minute roadmap to becoming a Junior full stack web developer</a> by Chris Blakely
 </br>
-<h2>Tools</h2>
+## Tools
 <a href="https://reactjs.org/">React JS</a>
 </br>
 <a href="https://caniuse.com/">Can I Use: Browser support tables for modern web technologies</a>
@@ -16,7 +16,7 @@
 </br>
 <a href="https://channel9.msdn.com/posts/Anders-Hejlsberg-Introducing-TypeScript">Anders Hejlsberg: Introducing TypeScript</a>
 </br>
-<h2>CSS</h2>
+## CSS
 <a href="https://meyerweb.com/eric/tools/css/reset/">CSS Tools: Reset CSS</a>
 </br>
 <a href="https://css-tricks.com/pseudo-class-selectors/">Meet the Pseudo Class Selectors</a>
@@ -39,7 +39,7 @@
 </br>
 <a href="https://medium.freecodecamp.org/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11">The CSS Handbook: a handy guide to CSS for developers</a>
 </br>
-<h2>Javascript</h2>
+## Javascript Essentials
 <a href="https://skillcrush.com/2018/06/18/projects-you-can-do-with-javascript/">Projects You Can Do with Javascript</a>
 </br>
 <a href="https://www.w3schools.com/js/default.asp">W3School Javascript</a>
@@ -82,13 +82,15 @@
 </br>
 <a href="https://codeburst.io/javascript-essentials-types-data-structures-3ac039f9877b">JavaScript Essentials: Types & Data Structures</a>
 </br>
-<h2>Advanced Javascript</h2>
+## Advanced Javascript
 </br>
 <a href="https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9">What’s the Difference Between Class & Prototypal Inheritance?</a>
 </br>
 <a href="https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36">What is Closure?</a>
 </br>
-<h2>The Art of Programming</h2>
+<a href="https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261">What is Promise?</a>
+</br>
+## The Art of Programming
 <a href="https://medium.freecodecamp.org/recursion-is-not-hard-858a48830d83">Recursion is not hard: a step-by-step walkthrough of this useful programming technique</a> by Kevin Turney
 </br>
 <a href="https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2">How to think like a programmer — lessons in problem solving</a> by Richard Reis
@@ -103,10 +105,10 @@
 </br>
 Video: <a href ="https://www.youtube.com/watch?v=D6xkbGLQesk">Introduction to Big O Notation and Time Complexity (Data Structures & Algorithms #7)</a>
 </br>
-<h2>Others</h2>
+## Others
 <a href="https://www.youtube.com/watch?v=sakQbeRjgwg">OAuth Passport</a> by Net Ninja
 </br>
-<h2>Productivity</h2>
+## Productivity
 <a href="https://www.nytimes.com/2019/01/13/smarter-living/how-to-actually-truly-focus-on-what-youre-doing.html">How to Actually, Truly Focus on What You’re Doing</a> by NYTimes
 </br>
 <a href="https://asoftmurmur.com/">Ambient sounds to wash away distraction</a> by aSoftMurmur.com
