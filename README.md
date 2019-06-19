@@ -1,9 +1,9 @@
-## General Reading for Beginners
+### General Reading for Beginners
 <a href="https://medium.freecodecamp.org/reflections-on-my-first-1-000-hours-learning-to-code-17cd32e72f11">Reflections on my first 1,000 hours learning to code</a> by Peter Higgins
 </br>
 <a href="https://medium.freecodecamp.org/the-10-minute-roadmap-to-becoming-a-junior-full-stack-web-developer-1131d4ffc48">The 10-minute roadmap to becoming a Junior full stack web developer</a> by Chris Blakely
 </br>
-## Tools
+### Tools
 <a href="https://reactjs.org/">React JS</a>
 </br>
 <a href="https://caniuse.com/">Can I Use: Browser support tables for modern web technologies</a>
@@ -39,7 +39,7 @@
 </br>
 <a href="https://medium.freecodecamp.org/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11">The CSS Handbook: a handy guide to CSS for developers</a>
 </br>
-## Javascript Essentials
+### Javascript Essentials
 <a href="https://skillcrush.com/2018/06/18/projects-you-can-do-with-javascript/">Projects You Can Do with Javascript</a>
 </br>
 <a href="https://www.w3schools.com/js/default.asp">W3School Javascript</a>
@@ -82,7 +82,7 @@
 </br>
 <a href="https://codeburst.io/javascript-essentials-types-data-structures-3ac039f9877b">JavaScript Essentials: Types & Data Structures</a>
 </br>
-## Advanced Javascript
+### Advanced Javascript
 </br>
 <a href="https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9">What’s the Difference Between Class & Prototypal Inheritance?</a>
 </br>
@@ -92,11 +92,11 @@
 </br>
 <a href="https://medium.com/codebuddies/getting-to-know-asynchronous-javascript-callbacks-promises-and-async-await-17e0673281ee">Getting to know asynchronous JavaScript: Callbacks, Promises and Async/Await</a>
 </br>
-## React
+### React
 </br>
 <a href="https://youtu.be/-MlNBTSg_Ww">React Hooks</a>
 </br>
-## The Art of Programming
+### The Art of Programming
 </br>
 <a href="https://medium.freecodecamp.org/recursion-is-not-hard-858a48830d83">Recursion is not hard: a step-by-step walkthrough of this useful programming technique</a> by Kevin Turney
 </br>
@@ -112,11 +112,11 @@
 </br>
 Video: <a href ="https://www.youtube.com/watch?v=D6xkbGLQesk">Introduction to Big O Notation and Time Complexity (Data Structures & Algorithms #7)</a>
 </br>
-## Others
+### Others
 </br>
 <a href="https://www.youtube.com/watch?v=sakQbeRjgwg">OAuth Passport</a> by Net Ninja
 </br>
-## Productivity
+### Productivity
 </br>
 <a href="https://www.nytimes.com/2019/01/13/smarter-living/how-to-actually-truly-focus-on-what-youre-doing.html">How to Actually, Truly Focus on What You’re Doing</a> by NYTimes
 </br>
