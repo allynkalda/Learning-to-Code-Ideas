@@ -4,8 +4,6 @@
 <a href="https://medium.freecodecamp.org/the-10-minute-roadmap-to-becoming-a-junior-full-stack-web-developer-1131d4ffc48">The 10-minute roadmap to becoming a Junior full stack web developer</a> by Chris Blakely
 
 ### Tools
-<a href="https://reactjs.org/">React JS</a>
-
 <a href="https://caniuse.com/">Can I Use: Browser support tables for modern web technologies</a>
 
 <a href="https://docs.mongodb.com/manual/">MongoDB Manual</a>
@@ -100,6 +98,8 @@
 
 ### React
 <a href="https://youtu.be/-MlNBTSg_Ww">React Hooks</a>
+
+<a href="https://reactjs.org/">React JS</a>
 
 ### The Art of Programming
 <a href="https://medium.freecodecamp.org/recursion-is-not-hard-858a48830d83">Recursion is not hard: a step-by-step walkthrough of this useful programming technique</a> by Kevin Turney
