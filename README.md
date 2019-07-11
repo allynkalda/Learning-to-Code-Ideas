@@ -98,11 +98,17 @@
 
 ### The Art of Programming
 <a href="https://medium.freecodecamp.org/recursion-is-not-hard-858a48830d83">Recursion is not hard: a step-by-step walkthrough of this useful programming technique</a> by Kevin Turney
+
 <a href="https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2">How to think like a programmer — lessons in problem solving</a> by Richard Reis
+
 <a href="https://medium.freecodecamp.org/a-step-towards-computing-as-a-science-algorithms-data-structures-4c0e2d6ae79a">A Step Towards Computing as a Science</a> by Yung L. Leung
+
 <a href="https://medium.freecodecamp.org/the-complexity-of-simple-algorithms-and-data-structures-in-javascript-11e25b29de1e">The complexity of simple algorithms and data structures in JS</a>  by Yung L. Leung
+
 <a href="https://adriann.github.io/programming_problems.html">Simple Programming Problems</a>
+
 <a href="https://medium.freecodecamp.org/object-oriented-programming-concepts-21bb035f7260">How to explain object-oriented programming concepts to a 6-year-old</a> by Alexander Petkov
+
 Video: <a href ="https://www.youtube.com/watch?v=D6xkbGLQesk">Introduction to Big O Notation and Time Complexity (Data Structures & Algorithms #7)</a>
 
 ### Others
@@ -110,6 +116,7 @@ Video: <a href ="https://www.youtube.com/watch?v=D6xkbGLQesk">Introduction to Bi
 
 ### Productivity
 <a href="https://www.nytimes.com/2019/01/13/smarter-living/how-to-actually-truly-focus-on-what-youre-doing.html">How to Actually, Truly Focus on What You’re Doing</a> by NYTimes
+
 <a href="https://asoftmurmur.com/">Ambient sounds to wash away distraction</a> by aSoftMurmur.com
 
 
