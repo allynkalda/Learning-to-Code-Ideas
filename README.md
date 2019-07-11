@@ -1,34 +1,23 @@
 ### General Reading for Beginners
 <a href="https://medium.freecodecamp.org/reflections-on-my-first-1-000-hours-learning-to-code-17cd32e72f11">Reflections on my first 1,000 hours learning to code</a> by Peter Higgins
-
 <a href="https://medium.freecodecamp.org/the-10-minute-roadmap-to-becoming-a-junior-full-stack-web-developer-1131d4ffc48">The 10-minute roadmap to becoming a Junior full stack web developer</a> by Chris Blakely
 
 ### Tools
 <a href="https://reactjs.org/">React JS</a>
-</br>
 <a href="https://caniuse.com/">Can I Use: Browser support tables for modern web technologies</a>
-</br>
 <a href="https://docs.mongodb.com/manual/">MongoDB Manual</a>
-</br>
 <a href="https://cloudinary.com/documentation">Cloudinary Documentation</a>
-</br>
 <a href="https://expressjs.com/">Express Framework for Node.js</a>
-</br>
 <a href="https://channel9.msdn.com/posts/Anders-Hejlsberg-Introducing-TypeScript">Anders Hejlsberg: Introducing TypeScript</a>
-</br>
-### HTML
 
+### HTML
 <a href="https://validator.w3.org/">HTML Validator</a>
 
 ### CSS
 <a href="https://meyerweb.com/eric/tools/css/reset/">CSS Tools: Reset CSS</a>
-</br>
 <a href="https://css-tricks.com/pseudo-class-selectors/">Meet the Pseudo Class Selectors</a>
-</br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity">Specificity</a>
-</br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing">Mastering margin collapsing</a>
-</br>
 <a href="https://medium.freecodecamp.org/how-to-use-the-position-property-in-css-to-align-elements-d8f49c403a26">How to use the position property in CSS to align elements</a>
 </br>
 <a href="https://www.w3schools.com/css/css_float.asp">CSS Layout - float and clear</a>
