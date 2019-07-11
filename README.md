@@ -26,6 +26,8 @@
 
 <a href="http://hslpicker.com/">HSL Color Picker</a>
 
+<a href="https://webaim.org/">Web Accessibility in Mind</a>
+
 <a href="https://css-tricks.com/pseudo-class-selectors/">Meet the Pseudo Class Selectors</a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity">Specificity</a>
