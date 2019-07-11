@@ -23,38 +23,68 @@
 
 ### CSS
 <a href="https://meyerweb.com/eric/tools/css/reset/">CSS Tools: Reset CSS</a>
+
 <a href="https://css-tricks.com/pseudo-class-selectors/">Meet the Pseudo Class Selectors</a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity">Specificity</a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing">Mastering margin collapsing</a>
+
 <a href="https://medium.freecodecamp.org/how-to-use-the-position-property-in-css-to-align-elements-d8f49c403a26">How to use the position property in CSS to align elements</a>
+
 <a href="https://www.w3schools.com/css/css_float.asp">CSS Layout - float and clear</a>
+
 <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">A Complete Guide to Flexbox</a> by CSS Tricks
+
 <a href="https://css-tricks.com/look-ma-no-media-queries-responsive-layouts-using-css-grid/">Look Ma, No Media Queries! Responsive Layouts Using CSS Grid</a>
+
 <a href="https://thoughtbot.com/blog/transitions-and-transforms">Transitions and Transforms</a> by Thoughtbot
+
 <a href="https://thoughtbot.com/blog/css-animation-for-beginners">CSS Animation for Beginners</a> by Thoughtbot
+
 <a href="https://medium.freecodecamp.org/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11">The CSS Handbook: a handy guide to CSS for developers</a>
 
 ### Javascript Essentials
 <a href="https://skillcrush.com/2018/06/18/projects-you-can-do-with-javascript/">Projects You Can Do with Javascript</a>
+
 <a href="https://www.w3schools.com/js/default.asp">W3School Javascript</a>
+
 <a href="https://medium.freecodecamp.org/what-is-an-api-in-english-please-b880a3214a82">What is an API? In English, please.</a> by Petr Gazarov
+
 <a href="https://medium.com/@kevinsimper/47-simple-javascript-apps-you-can-make-in-a-day-98f5207ca2e1">47 simple javascript apps you can make in a day</a> by Kevin Simper
+
 <a href="https://medium.freecodecamp.org/an-introduction-to-the-javascript-dom-512463dd62ec">An introduction to the JavaScript DOM</a> by Gabriel Tanner
+
 <a href="https://codeburst.io/learn-let-var-and-const-in-easiest-way-with-guarantee-e6ecf551018a">Difference between let, const and var in easiest way with Guarantee…</a> by Arslan Shakoor
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions">Regular Expressions</a> by Developer Mozilla
+
 <a href="https://medium.freecodecamp.org/lets-clear-up-the-confusion-around-the-slice-splice-split-methods-in-javascript-8ba3266c29ae">Let’s clear up the confusion around the slice( ), splice( ), & split( ) methods in JavaScript</a> by Cem Eygi
+
 <a href="https://codeburst.io/an-introduction-to-regular-expressions-regex-in-javascript-1d3559e7ac9a">An Introduction to Regular Expressions (Regex) In JavaScript</a> by Brandon Morelli
+
 <a href="http://www.jacklmoore.com/notes/rounding-in-javascript/">Rounding Decimals in JavaScript</a> by Jack Moore
+
 <a href="https://www.exploringbinary.com/why-0-point-1-does-not-exist-in-floating-point/">Why 0.1 Does Not Exist In Floating-Point</a> by Rick Regan
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String">MDN Web Docs: Strings</a>
+
 <a href="https://regexone.com/references/javascript">Using Regular Expressions in Javascript</a>
+
 <a href="https://medium.freecodecamp.org/javascript-closures-simplified-d0d23fa06ba4">A simple guide to help you understand closures in JavaScript</a> by Prashant Ram
+
 <a href="https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript">2D breakout game using pure JavaScript</a>
+
 <a href="https://codeburst.io/es6-tutorial-for-beginners-5f3c4e7960be">ES6 for Beginners</a> by Srebalaji Thirumalai
+
 <a href="https://codeburst.io/a-simple-guide-to-destructuring-and-es6-spread-operator-e02212af5831">A Simple Guide to Destructuring and ES6 Spread Operator</a>
+
 <a href="https://jshint.com/">JS Hint: A Code Quality Tool</a>
+
 <a href="https://developers.google.com/web/fundamentals/primers/promises">JavaScript Promises: an Introduction</a> by Google Web Fundamentals
+
 <a href="https://css-tricks.com/understanding-javascript-constructors/">Understanding Javascript Constructors</a>
+
 <a href="https://codeburst.io/javascript-essentials-types-data-structures-3ac039f9877b">JavaScript Essentials: Types & Data Structures</a>
 
 ### Advanced Javascript
