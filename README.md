@@ -1,14 +1,22 @@
 ### General Reading for Beginners
 <a href="https://medium.freecodecamp.org/reflections-on-my-first-1-000-hours-learning-to-code-17cd32e72f11">Reflections on my first 1,000 hours learning to code</a> by Peter Higgins
+
 <a href="https://medium.freecodecamp.org/the-10-minute-roadmap-to-becoming-a-junior-full-stack-web-developer-1131d4ffc48">The 10-minute roadmap to becoming a Junior full stack web developer</a> by Chris Blakely
 
 ### Tools
 <a href="https://reactjs.org/">React JS</a>
+
 <a href="https://caniuse.com/">Can I Use: Browser support tables for modern web technologies</a>
+
 <a href="https://docs.mongodb.com/manual/">MongoDB Manual</a>
+
 <a href="https://cloudinary.com/documentation">Cloudinary Documentation</a>
+
 <a href="https://expressjs.com/">Express Framework for Node.js</a>
+
 <a href="https://channel9.msdn.com/posts/Anders-Hejlsberg-Introducing-TypeScript">Anders Hejlsberg: Introducing TypeScript</a>
+
+<a href="https://devdocs.io/">Compiled Documentations</a>
 
 ### HTML
 <a href="https://validator.w3.org/">HTML Validator</a>
