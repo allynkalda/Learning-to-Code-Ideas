@@ -3,7 +3,7 @@
 </br>
 <a href="https://medium.freecodecamp.org/the-10-minute-roadmap-to-becoming-a-junior-full-stack-web-developer-1131d4ffc48">The 10-minute roadmap to becoming a Junior full stack web developer</a> by Chris Blakely
 </br>
-### Tools
+#### Tools
 <a href="https://reactjs.org/">React JS</a>
 </br>
 <a href="https://caniuse.com/">Can I Use: Browser support tables for modern web technologies</a>
@@ -16,7 +16,11 @@
 </br>
 <a href="https://channel9.msdn.com/posts/Anders-Hejlsberg-Introducing-TypeScript">Anders Hejlsberg: Introducing TypeScript</a>
 </br>
-## CSS
+### HTML
+
+<a href="https://validator.w3.org/">HTML Validator</a>
+
+### CSS
 <a href="https://meyerweb.com/eric/tools/css/reset/">CSS Tools: Reset CSS</a>
 </br>
 <a href="https://css-tricks.com/pseudo-class-selectors/">Meet the Pseudo Class Selectors</a>
