@@ -120,6 +120,10 @@
 
 Video: <a href ="https://www.youtube.com/watch?v=D6xkbGLQesk">Introduction to Big O Notation and Time Complexity (Data Structures & Algorithms #7)</a>
 
+### Testing
+
+<a href="https://jestjs.io/">Jest</a>
+
 ### Others
 <a href="https://www.youtube.com/watch?v=sakQbeRjgwg">OAuth Passport</a> by Net Ninja
 
