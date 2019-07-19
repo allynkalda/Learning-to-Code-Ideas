@@ -105,6 +105,9 @@
 
 <a href="https://reactjs.org/">React JS</a>
 
+### Angular
+<a href="https://angular-checklist.io/projects">Angular Checklist</a>
+
 ### The Art of Programming
 <a href="https://medium.freecodecamp.org/recursion-is-not-hard-858a48830d83">Recursion is not hard: a step-by-step walkthrough of this useful programming technique</a> by Kevin Turney
 
