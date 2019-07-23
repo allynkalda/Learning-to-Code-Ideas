@@ -133,8 +133,10 @@ Video: <a href ="https://www.youtube.com/watch?v=D6xkbGLQesk">Introduction to Bi
 
 <a href="https://jestjs.io/">Jest</a>
 
-### Others
+### Authentication
 <a href="https://www.youtube.com/watch?v=sakQbeRjgwg">OAuth Passport</a> by Net Ninja
+
+<a href="https://auth0.com/docs/quickstart/spa/react">Using Auth0 for React</a>
 
 ### Productivity
 <a href="https://www.nytimes.com/2019/01/13/smarter-living/how-to-actually-truly-focus-on-what-youre-doing.html">How to Actually, Truly Focus on What You’re Doing</a> by NYTimes
