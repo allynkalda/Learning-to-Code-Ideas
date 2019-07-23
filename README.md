@@ -103,6 +103,9 @@
 
 <a href="https://www.typescriptlang.org/docs/tutorial.html">Typescript Documentation</a>
 
+### GIT
+<a href="https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf">Git Cheat Sheet</a>
+
 ### React
 <a href="https://youtu.be/-MlNBTSg_Ww">React Hooks</a>
 
