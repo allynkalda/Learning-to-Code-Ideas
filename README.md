@@ -12,8 +12,6 @@
 
 <a href="https://expressjs.com/">Express Framework for Node.js</a>
 
-<a href="https://channel9.msdn.com/posts/Anders-Hejlsberg-Introducing-TypeScript">Anders Hejlsberg: Introducing TypeScript</a>
-
 <a href="https://devdocs.io/">Compiled Documentations</a>
 
 ### HTML
@@ -99,6 +97,11 @@
 <a href="https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261">What is Promise?</a>
 
 <a href="https://medium.com/codebuddies/getting-to-know-asynchronous-javascript-callbacks-promises-and-async-await-17e0673281ee">Getting to know asynchronous JavaScript: Callbacks, Promises and Async/Await</a>
+
+### Typescript
+<a href="https://channel9.msdn.com/posts/Anders-Hejlsberg-Introducing-TypeScript">Anders Hejlsberg: Introducing TypeScript</a>
+
+<a href="https://www.typescriptlang.org/docs/tutorial.html">Typescript Documentation</a>
 
 ### React
 <a href="https://youtu.be/-MlNBTSg_Ww">React Hooks</a>
