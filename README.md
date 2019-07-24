@@ -14,6 +14,8 @@
 
 <a href="https://devdocs.io/">Compiled Documentations</a>
 
+<a href="https://jshint.com/">JS Hint: A Code Quality Tool</a>
+
 ### HTML
 <a href="https://validator.w3.org/">HTML Validator</a>
 
@@ -80,8 +82,6 @@
 <a href="https://codeburst.io/es6-tutorial-for-beginners-5f3c4e7960be">ES6 for Beginners</a> by Srebalaji Thirumalai
 
 <a href="https://codeburst.io/a-simple-guide-to-destructuring-and-es6-spread-operator-e02212af5831">A Simple Guide to Destructuring and ES6 Spread Operator</a>
-
-<a href="https://jshint.com/">JS Hint: A Code Quality Tool</a>
 
 <a href="https://developers.google.com/web/fundamentals/primers/promises">JavaScript Promises: an Introduction</a> by Google Web Fundamentals
 
