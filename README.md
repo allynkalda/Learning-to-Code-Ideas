@@ -111,6 +111,8 @@
 
 <a href="https://reactjs.org/">React JS</a>
 
+<a href="https://itnext.io/set-up-react-native-with-expo-1e63a82d01ac">Set up React Native with Expo</a>
+
 ### Angular
 <a href="https://angular-checklist.io/projects">Angular Checklist</a>
 
