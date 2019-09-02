@@ -140,6 +140,8 @@ Video: <a href ="https://www.youtube.com/watch?v=D6xkbGLQesk">Introduction to Bi
 
 <a href="https://jestjs.io/">Jest</a>
 
+[Tutorial: User Interface Testing with Jest and Puppeteer](https://www.valentinog.com/blog/ui-testing-jest-puppetteer/)
+
 ### Authentication
 <a href="https://www.youtube.com/watch?v=sakQbeRjgwg">OAuth Passport</a> by Net Ninja
 
